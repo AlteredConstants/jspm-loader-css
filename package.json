@@ -37,6 +37,7 @@
   },
   "homepage": "https://github.com/geelen/jspm-loader-css",
   "jspm": {
+    "registry": "npm",
     "meta": {
       "autoprefixer.js": {
         "format": "global"
